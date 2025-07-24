@@ -1,0 +1,1 @@
+# usmc-auto-training-api
